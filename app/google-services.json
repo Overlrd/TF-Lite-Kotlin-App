@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298095120347",
+    "project_id": "android-tf",
+    "storage_bucket": "android-tf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298095120347:android:e7ef573817322f04bc61fe",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.digitclassifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298095120347-q3p9kgbeclt2ubdv3i8j897kkpg96804.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo_Hf7BzuZbHg396se-6djQUIB4O6HGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298095120347-q3p9kgbeclt2ubdv3i8j897kkpg96804.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
